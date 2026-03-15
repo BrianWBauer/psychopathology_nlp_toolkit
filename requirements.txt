@@ -1,0 +1,32 @@
+# Core NLP
+sentence-transformers>=2.2.0
+transformers>=4.30.0
+torch>=2.0.0
+
+# BERTopic pipeline
+bertopic>=0.15.0
+hdbscan>=0.8.33
+umap-learn>=0.5.3
+
+# Factor analysis & linear algebra
+# NOTE: factor_analyzer 0.5.1 has a sklearn >=1.6 compatibility issue
+# (deprecated force_all_finite parameter). The toolkit includes a
+# compatibility shim in toolkit/factor_analysis.py that handles this.
+factor-analyzer>=0.5.0
+scikit-learn>=1.3.0
+scipy>=1.11.0
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+
+# LLM interpretation (optional)
+openai>=1.0.0
+anthropic>=0.20.0
+
+# ProtoDash prototype selection (optional but recommended)
+# Apache 2.0 license; https://github.com/Trusted-AI/AIX360
+aix360>=0.3.0
