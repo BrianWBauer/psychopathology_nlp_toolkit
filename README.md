@@ -209,12 +209,12 @@ The toolkit provides two prototype selection methods:
 ## Citation
 
 ```bibtex
-@article{bauer2025transformer,
+@article{bauer2026transformer,
   title={Transformer-Based Text Embeddings for Identifying Higher-Order 
          Constructs in Psychopathology: A Practical Tutorial},
-  author={Bauer, Brian W. and others},
-  journal={Journal of Abnormal Psychology},
-  year={2025}
+  author={Bauer, Brian W., Sappenfield, C., Follet, L., Cecchi, G., & Norel, R},
+  journal={Journal of Psychopathology and Clinical Science},
+  year={2026}
 }
 ```
 
