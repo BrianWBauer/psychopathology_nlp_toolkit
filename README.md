@@ -2,7 +2,7 @@
 
 Companion code for:
 
-> Bauer, B. W., et al. "Transformer-Based Text Embeddings for Identifying Higher-Order Constructs in Psychopathology: A Practical Tutorial." *Journal of Abnormal Psychology*.
+> Bauer, B. W., et al. "Transformer-Based Text Embeddings for Identifying Higher-Order Constructs in Psychopathology: A Practical Tutorial." *Journal of Psychopathology and Clinical Science*.
 
 A modular, reproducible Python toolkit for analyzing mental health language data using transformer-based embeddings combined with dimensionality reduction, clustering, factor analysis, and explainable AI.
 
