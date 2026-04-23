@@ -50,8 +50,8 @@ Raw Text
 ## Installation
 
 ```bash
-git clone https://github.com/<your-repo>/psychopathology-nlp-toolkit.git
-cd psychopathology-nlp-toolkit
+git clone https://github.com/BrianWBauer/psychopathology_nlp_toolkit.git
+cd psychopathology_nlp_toolkit
 pip install -r requirements.txt
 ```
 
